@@ -8,3 +8,4 @@ https://drive.google.com/drive/folders/16YbYg8usZtSXn1_edpdBR0susFstwLrr?usp=sha
 
 Social Distancing Detector:
 STEP1:download the yolo weights from the given link
+https://pjreddie.com/media/files/yolov3.weights
