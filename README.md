@@ -20,7 +20,6 @@ Social Distancing Detection tool to monitor social distancing from CCTV, videos 
 ### Clone
 ```
 git clone https://github.com/AshutoshDevpura/Social-Distancing-Facemask-Detection
-
 ```
 
 ### Prerequisites 
@@ -38,23 +37,19 @@ https://drive.google.com/drive/folders/16YbYg8usZtSXn1_edpdBR0susFstwLrr?usp=sha
 3. Install virtual environment. 
   ``` 
   pip3 install virtualenv
-  
   ```
 5. Create the virtual environment.
   ```
    virtualenv env_name
-   
   ```
  6. Download all requirements from requirements.txt.
   ```
   pip3 install -r -requirements.txt
-  
   ```
 7. Run detect_mask_video.py.
-   ```
-   python3 detect_mask_video.py
-    
-   ```
+  ```
+   python3 detect_mask_video.py  
+  ```
 
 
 #### Social Distancing Detector:
@@ -65,21 +60,17 @@ https://pjreddie.com/media/files/yolov3.weights.
 3. Install virtual environment. 
   ``` 
   pip3 install virtualenv
-  
   ```
 5. Create the virtual environment.
   ```
-   virtualenv env_name
-   
+   virtualenv env_name 
   ```
  6. Download all requirements from requirements.txt.
   ```
   pip3 install -r -requirements.txt
-  
   ```
 7. Run social_distancing_analyser.py.
    ```
-    python3 social_distancing_analyser.py
-   
+   python3 social_distancing_analyser.py
    ```
 
