@@ -1,5 +1,5 @@
 ## About The Project
-
+MDD Project for SRM Institute of Science and Technology.
 
 This Repository contains two tools, first to detect if a person is wearing a Face mask or not, and second, to see if Social distancing is maintained or not in real-time using pre-installed surveillance cameras.
 
@@ -70,7 +70,30 @@ https://pjreddie.com/media/files/yolov3.weights.
   pip3 install -r -requirements.txt
   ```
 7. Run social_distancing_analyser.py.
-   ```
-   python3 social_distancing_analyser.py
-   ```
-
+  ```
+  python3 social_distancing_analyser.py
+  ```
+  
+  ## Output
+  
+  ### Face Mask Detector 
+  
+  ![image](https://user-images.githubusercontent.com/46817661/114898178-8364b980-9e2f-11eb-8e85-79ba5b8ea1ab.png)
+  #### Detection of an Unmasked Individual
+  
+  ![image](https://user-images.githubusercontent.com/46817661/114898559-d50d4400-9e2f-11eb-8eae-06a895e1fe78.png)
+  #### Detection of a Masked Individual 
+  
+ <br>
+ 
+  ### Social Distancing Detector 
+  
+  ![image](https://user-images.githubusercontent.com/46817661/114898880-21f11a80-9e30-11eb-8f2b-fb954ab1a685.png)
+  #### ROI of Social Distancing Detector
+  
+  ![image](https://user-images.githubusercontent.com/46817661/114899021-41884300-9e30-11eb-89a0-324a2e693472.png)
+ 
+ ### Social Distancing Detector 
+  
+ ## Conference Paper
+ https://ieeexplore.ieee.org/document/9315934
