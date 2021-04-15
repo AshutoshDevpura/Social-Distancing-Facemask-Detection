@@ -3,6 +3,7 @@
 
 This Repository contains two tools, first to detect if a person is wearing a Face mask or not, and second, to see if Social distancing is maintained or not in real-time using pre-installed surveillance cameras.
 
+
 ### Face Mask Detection
 Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams.
 
@@ -15,6 +16,12 @@ Social Distancing Detection tool to monitor social distancing from CCTV, videos 
 
 
 ## Getting Started 
+
+### Clone
+```
+git clone https://github.com/AshutoshDevpura/Social-Distancing-Facemask-Detection
+
+```
 
 ### Prerequisites 
 1. ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
@@ -34,20 +41,20 @@ https://drive.google.com/drive/folders/16YbYg8usZtSXn1_edpdBR0susFstwLrr?usp=sha
   
   ```
 5. Create the virtual environment.
-   ```
+  ```
    virtualenv env_name
    
-   ```
+  ```
  6. Download all requirements from requirements.txt.
   ```
   pip3 install -r -requirements.txt
   
   ```
 7. Run detect_mask_video.py.
-    ```
-    python3 detect_mask_video.py
+   ```
+   python3 detect_mask_video.py
     
-    ```
+   ```
 
 
 #### Social Distancing Detector:
@@ -61,18 +68,18 @@ https://pjreddie.com/media/files/yolov3.weights.
   
   ```
 5. Create the virtual environment.
-   ```
+  ```
    virtualenv env_name
    
-   ```
+  ```
  6. Download all requirements from requirements.txt.
   ```
   pip3 install -r -requirements.txt
   
   ```
 7. Run social_distancing_analyser.py.
-    ```
+   ```
     python3 social_distancing_analyser.py
-    
-    ```
+   
+   ```
 
