@@ -44,7 +44,7 @@ https://drive.google.com/drive/folders/16YbYg8usZtSXn1_edpdBR0susFstwLrr?usp=sha
   ```
  6. Download all requirements from requirements.txt.
   ```
-  pip3 install -r -requirements.txt
+  pip3 install -r requirements.txt
   ```
 7. Run detect_mask_video.py.
   ```
