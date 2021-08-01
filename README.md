@@ -67,7 +67,7 @@ https://pjreddie.com/media/files/yolov3.weights.
   ```
  6. Download all requirements from requirements.txt.
   ```
-  pip3 install -r -requirements.txt
+  pip3 install -r requirements.txt
   ```
 7. Run social_distancing_analyser.py.
   ```
