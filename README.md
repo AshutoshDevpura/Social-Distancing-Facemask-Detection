@@ -92,8 +92,7 @@ https://pjreddie.com/media/files/yolov3.weights.
   #### ROI of Social Distancing Detector
   
   ![image](https://user-images.githubusercontent.com/46817661/114899021-41884300-9e30-11eb-89a0-324a2e693472.png)
- 
- ### Social Distancing Detector 
+ #### Social Distancing Detection 
   
  ## Conference Paper
  https://ieeexplore.ieee.org/document/9315934
